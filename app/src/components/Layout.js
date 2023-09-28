@@ -38,7 +38,7 @@ export default function Layout(props) {
   return(
     <div className={gridStyle}>
       <section className={headerStyle}>
-        <Header title="jpcnlss-CPE4A"/>
+        <Header title="JAYPEE P. CANLAS- BLOG-CPE4A"/>
       </section>
       <Navigation className={sideNavStyle} />
 
